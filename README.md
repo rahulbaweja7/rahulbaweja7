@@ -1,10 +1,10 @@
 # Hi 👋 I'm Rahul!<br/>
 
-## 💫 About Me:
+# 💫 About Me:
 I am a third year computer science student at Arizona State University, passionate about exploring the realms of coding, machine learning and builidng new application.<br/>
 
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahulbaweja-/) 
 
 # 💻 Tech Stack:
