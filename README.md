@@ -1,7 +1,7 @@
-# Hi 👋 I'm Rahul!
+# Hi 👋 I'm Rahul!<br/>
 
-### 💫 About Me:
-I am a third year computer science student at Arizona State University, passionate about exploring the realms of coding, machine learning and builidng new application.
+## 💫 About Me:
+I am a third year computer science student at Arizona State University, passionate about exploring the realms of coding, machine learning and builidng new application.<br/>
 
 
 # 💻 Tech Stack:
